@@ -1,0 +1,8 @@
+gagicrc_b:
+    resource: "@gagicrcBBundle/Resources/config/routing.yml"
+    prefix:   /
+
+gagicrc_a:
+    resource: "@gagicrcABundle/Resources/config/routing.yml"
+    prefix:   /
+

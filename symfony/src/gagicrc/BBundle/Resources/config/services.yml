@@ -1,0 +1,7 @@
+parameters:
+#    gagicrc_b.example.class: gagicrc\BBundle\Example
+
+services:
+#    gagicrc_b.example:
+#        class: %gagicrc_b.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

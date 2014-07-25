@@ -1,0 +1,3 @@
+gagicrc_b_homepage:
+    pattern:  /gagicrc/b
+    defaults: { _controller: gagicrcBBundle:Default:index }
