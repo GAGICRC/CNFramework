@@ -22,7 +22,9 @@ Main objectives
 The CNFrameWork team, based at OSIKMCN, includes:
 
 Fernando Teodósio - Project Lead
+
 Hugo Rodrigues - Community Manager
+
 João Dias - Developer
 
 # LICENSE #
